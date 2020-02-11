@@ -1,32 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2249bf8a-699c-44a4-b365-d2240cb0bdf8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/actions/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/App.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/GoogleAuth.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Header.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/streams/StreamCreate.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/streams/StreamDelete.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/streams/StreamEdit.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/streams/StreamList.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/streams/StreamShow.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/reducers/authReducer.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/reducers/index.js" afterDir="false" />
+    <list default="true" id="2249bf8a-699c-44a4-b365-d2240cb0bdf8" name="Default Changelist" comment="create base structure, add google auth Api with secret key, add redux, create reducer and actions for auth component">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.test.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/logo.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/serviceWorker.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/setupTests.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/GoogleAuth.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/GoogleAuth.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -88,12 +65,24 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1581238582596</updated>
-      <workItem from="1581238584128" duration="33672000" />
+      <workItem from="1581238584128" duration="36806000" />
     </task>
+    <task id="LOCAL-00001" summary="create base structure, add google auth Api with secret key, add redux, create reducer and actions for auth component">
+      <created>1581420759573</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1581420759573</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="create base structure, add google auth Api with secret key, add redux, create reducer and actions for auth component" />
+    <option name="LAST_COMMIT_MESSAGE" value="create base structure, add google auth Api with secret key, add redux, create reducer and actions for auth component" />
   </component>
   <component name="WindowStateProjectService">
     <state x="1021" y="256" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1581278736069">
@@ -104,10 +93,18 @@
       <screen x="0" y="0" width="1707" height="920" />
     </state>
     <state x="990" y="213" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1707.920@0.0.1707.920" timestamp="1581249051503" />
-    <state x="906" y="223" key="FileChooserDialogImpl" timestamp="1581239813482">
+    <state x="311" y="0" key="CommitChangelistDialog2" timestamp="1581422212478">
       <screen x="0" y="0" width="1707" height="920" />
     </state>
-    <state x="906" y="223" key="FileChooserDialogImpl/0.0.1707.920@0.0.1707.920" timestamp="1581239813482" />
+    <state x="311" y="0" key="CommitChangelistDialog2/0.0.1707.920@0.0.1707.920" timestamp="1581422212478" />
+    <state x="906" y="223" key="FileChooserDialogImpl" timestamp="1581420985797">
+      <screen x="0" y="0" width="1707" height="920" />
+    </state>
+    <state x="906" y="223" key="FileChooserDialogImpl/0.0.1707.920@0.0.1707.920" timestamp="1581420985797" />
+    <state x="847" y="180" key="Vcs.Push.Dialog.v2" timestamp="1581422231253">
+      <screen x="0" y="0" width="1707" height="920" />
+    </state>
+    <state x="847" y="180" key="Vcs.Push.Dialog.v2/0.0.1707.920@0.0.1707.920" timestamp="1581422231253" />
     <state x="901" y="214" key="run.anything.popup" timestamp="1581271094125">
       <screen x="0" y="0" width="1707" height="920" />
     </state>
