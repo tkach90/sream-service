@@ -3,7 +3,9 @@
   <component name="ChangeListManager">
     <list default="true" id="2249bf8a-699c-44a4-b365-d2240cb0bdf8" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/reducers/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/reducers/index.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,7 +67,9 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1581238582596</updated>
-      <workItem from="1581238584128" duration="40518000" />
+      <workItem from="1581238584128" duration="40552000" />
+      <workItem from="1581515589440" duration="2545000" />
+      <workItem from="1581716390758" duration="1409000" />
     </task>
     <task id="LOCAL-00001" summary="create base structure, add google auth Api with secret key, add redux, create reducer and actions for auth component">
       <created>1581420759573</created>
@@ -95,7 +99,14 @@
       <option name="project" value="LOCAL" />
       <updated>1581431431583</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="add redux devtools">
+      <created>1581464761103</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1581464761123</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -106,7 +117,8 @@
     <MESSAGE value="transfer auth functionality to redux, add mapStateToProps and finish auth component" />
     <MESSAGE value="create action types to defend from mistyping errors" />
     <MESSAGE value="add to redux state userId, to onAuthChange in component, to action in payload field, to reducer in initial state and to the switch action construction" />
-    <option name="LAST_COMMIT_MESSAGE" value="add to redux state userId, to onAuthChange in component, to action in payload field, to reducer in initial state and to the switch action construction" />
+    <MESSAGE value="add redux devtools" />
+    <option name="LAST_COMMIT_MESSAGE" value="add redux devtools" />
   </component>
   <component name="WindowStateProjectService">
     <state x="1021" y="256" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1581278736069">
@@ -117,18 +129,18 @@
       <screen x="0" y="0" width="1707" height="920" />
     </state>
     <state x="990" y="213" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1707.920@0.0.1707.920" timestamp="1581249051503" />
-    <state x="311" y="0" width="771" height="920" key="CommitChangelistDialog2" timestamp="1581431430861">
+    <state x="311" y="0" width="771" height="920" key="CommitChangelistDialog2" timestamp="1581464758454">
       <screen x="0" y="0" width="1707" height="920" />
     </state>
-    <state x="311" y="0" width="771" height="920" key="CommitChangelistDialog2/0.0.1707.920@0.0.1707.920" timestamp="1581431430861" />
+    <state x="311" y="0" width="771" height="920" key="CommitChangelistDialog2/0.0.1707.920@0.0.1707.920" timestamp="1581464758454" />
     <state x="906" y="223" key="FileChooserDialogImpl" timestamp="1581420985797">
       <screen x="0" y="0" width="1707" height="920" />
     </state>
     <state x="906" y="223" key="FileChooserDialogImpl/0.0.1707.920@0.0.1707.920" timestamp="1581420985797" />
-    <state x="847" y="180" key="Vcs.Push.Dialog.v2" timestamp="1581431433029">
+    <state x="847" y="180" key="Vcs.Push.Dialog.v2" timestamp="1581464763412">
       <screen x="0" y="0" width="1707" height="920" />
     </state>
-    <state x="847" y="180" key="Vcs.Push.Dialog.v2/0.0.1707.920@0.0.1707.920" timestamp="1581431433029" />
+    <state x="847" y="180" key="Vcs.Push.Dialog.v2/0.0.1707.920@0.0.1707.920" timestamp="1581464763412" />
     <state x="901" y="214" key="run.anything.popup" timestamp="1581271094125">
       <screen x="0" y="0" width="1707" height="920" />
     </state>
