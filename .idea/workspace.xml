@@ -69,7 +69,10 @@
       <workItem from="1581515589440" duration="2545000" />
       <workItem from="1581716390758" duration="4839000" />
       <workItem from="1582190095161" duration="1306000" />
-      <workItem from="1582243890322" duration="336000" />
+      <workItem from="1582243890322" duration="430000" />
+      <workItem from="1582244355065" duration="114000" />
+      <workItem from="1582244638141" duration="2051000" />
+      <workItem from="1582252299581" duration="1239000" />
     </task>
     <task id="LOCAL-00001" summary="create base structure, add google auth Api with secret key, add redux, create reducer and actions for auth component">
       <created>1581420759573</created>
@@ -113,7 +116,14 @@
       <option name="project" value="LOCAL" />
       <updated>1581721067842</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="create redux form on the new stream page">
+      <created>1582244306635</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1582244306635</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -126,7 +136,8 @@
     <MESSAGE value="add to redux state userId, to onAuthChange in component, to action in payload field, to reducer in initial state and to the switch action construction" />
     <MESSAGE value="add redux devtools" />
     <MESSAGE value="add redux-form, add redux-form reducer to combine reducer function" />
-    <option name="LAST_COMMIT_MESSAGE" value="add redux-form, add redux-form reducer to combine reducer function" />
+    <MESSAGE value="create redux form on the new stream page" />
+    <option name="LAST_COMMIT_MESSAGE" value="create redux form on the new stream page" />
   </component>
   <component name="WindowStateProjectService">
     <state x="1021" y="256" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1581278736069">
@@ -141,18 +152,18 @@
       <screen x="0" y="0" width="1707" height="920" />
     </state>
     <state x="990" y="213" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1707.920@0.0.1707.920" timestamp="1581249051503" />
-    <state x="311" y="0" width="771" height="920" key="CommitChangelistDialog2" timestamp="1581721066946">
+    <state x="311" y="0" width="771" height="920" key="CommitChangelistDialog2" timestamp="1582244305635">
       <screen x="0" y="0" width="1707" height="920" />
     </state>
-    <state x="311" y="0" width="771" height="920" key="CommitChangelistDialog2/0.0.1707.920@0.0.1707.920" timestamp="1581721066946" />
+    <state x="311" y="0" width="771" height="920" key="CommitChangelistDialog2/0.0.1707.920@0.0.1707.920" timestamp="1582244305635" />
     <state x="906" y="223" key="FileChooserDialogImpl" timestamp="1581420985797">
       <screen x="0" y="0" width="1707" height="920" />
     </state>
     <state x="906" y="223" key="FileChooserDialogImpl/0.0.1707.920@0.0.1707.920" timestamp="1581420985797" />
-    <state x="847" y="180" key="Vcs.Push.Dialog.v2" timestamp="1581721070205">
+    <state x="847" y="180" key="Vcs.Push.Dialog.v2" timestamp="1582244308439">
       <screen x="0" y="0" width="1707" height="920" />
     </state>
-    <state x="847" y="180" key="Vcs.Push.Dialog.v2/0.0.1707.920@0.0.1707.920" timestamp="1581721070205" />
+    <state x="847" y="180" key="Vcs.Push.Dialog.v2/0.0.1707.920@0.0.1707.920" timestamp="1582244308439" />
     <state x="901" y="214" key="run.anything.popup" timestamp="1581271094125">
       <screen x="0" y="0" width="1707" height="920" />
     </state>
