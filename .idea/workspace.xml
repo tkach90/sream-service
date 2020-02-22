@@ -5,6 +5,7 @@
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/streams/StreamCreate.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/streams/StreamCreate.js" afterDir="false" />
     </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -31,7 +32,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../online-shop" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
@@ -39,6 +40,19 @@
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Color Scheme Font" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
   </component>
   <component name="RunManager" selected="npm.npm start">
     <configuration name="Debug Application" type="JavascriptDebugType" uri="http://localhost:3000">
@@ -72,7 +86,13 @@
       <workItem from="1582243890322" duration="430000" />
       <workItem from="1582244355065" duration="114000" />
       <workItem from="1582244638141" duration="2051000" />
-      <workItem from="1582252299581" duration="1239000" />
+      <workItem from="1582252299581" duration="1427000" />
+      <workItem from="1582358256389" duration="595000" />
+      <workItem from="1582360062362" duration="597000" />
+      <workItem from="1582366123907" duration="832000" />
+      <workItem from="1582369440468" duration="1809000" />
+      <workItem from="1582372467584" duration="93000" />
+      <workItem from="1582372580047" duration="2010000" />
     </task>
     <task id="LOCAL-00001" summary="create base structure, add google auth Api with secret key, add redux, create reducer and actions for auth component">
       <created>1581420759573</created>
@@ -123,11 +143,31 @@
       <option name="project" value="LOCAL" />
       <updated>1582244306635</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="add labels to the form and validation function">
+      <created>1582253723681</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1582253723681</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="create base structure, add google auth Api with secret key, add redux, create reducer and actions for auth component" />
@@ -137,7 +177,8 @@
     <MESSAGE value="add redux devtools" />
     <MESSAGE value="add redux-form, add redux-form reducer to combine reducer function" />
     <MESSAGE value="create redux form on the new stream page" />
-    <option name="LAST_COMMIT_MESSAGE" value="create redux form on the new stream page" />
+    <MESSAGE value="add labels to the form and validation function" />
+    <option name="LAST_COMMIT_MESSAGE" value="add labels to the form and validation function" />
   </component>
   <component name="WindowStateProjectService">
     <state x="1021" y="256" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1581278736069">
@@ -152,18 +193,18 @@
       <screen x="0" y="0" width="1707" height="920" />
     </state>
     <state x="990" y="213" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1707.920@0.0.1707.920" timestamp="1581249051503" />
-    <state x="311" y="0" width="771" height="920" key="CommitChangelistDialog2" timestamp="1582244305635">
+    <state x="311" y="0" width="771" height="920" key="CommitChangelistDialog2" timestamp="1582253722215">
       <screen x="0" y="0" width="1707" height="920" />
     </state>
-    <state x="311" y="0" width="771" height="920" key="CommitChangelistDialog2/0.0.1707.920@0.0.1707.920" timestamp="1582244305635" />
+    <state x="311" y="0" width="771" height="920" key="CommitChangelistDialog2/0.0.1707.920@0.0.1707.920" timestamp="1582253722215" />
     <state x="906" y="223" key="FileChooserDialogImpl" timestamp="1581420985797">
       <screen x="0" y="0" width="1707" height="920" />
     </state>
     <state x="906" y="223" key="FileChooserDialogImpl/0.0.1707.920@0.0.1707.920" timestamp="1581420985797" />
-    <state x="847" y="180" key="Vcs.Push.Dialog.v2" timestamp="1582244308439">
+    <state x="847" y="180" key="Vcs.Push.Dialog.v2" timestamp="1582253725880">
       <screen x="0" y="0" width="1707" height="920" />
     </state>
-    <state x="847" y="180" key="Vcs.Push.Dialog.v2/0.0.1707.920@0.0.1707.920" timestamp="1582244308439" />
+    <state x="847" y="180" key="Vcs.Push.Dialog.v2/0.0.1707.920@0.0.1707.920" timestamp="1582253725880" />
     <state x="901" y="214" key="run.anything.popup" timestamp="1581271094125">
       <screen x="0" y="0" width="1707" height="920" />
     </state>
