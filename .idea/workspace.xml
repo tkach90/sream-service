@@ -2,12 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2249bf8a-699c-44a4-b365-d2240cb0bdf8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/api/db.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/apis/streams.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/api/db.json" beforeDir="false" afterPath="$PROJECT_DIR$/api/db.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/actions/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/actions/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/actions/types.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/actions/types.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/streams/StreamCreate.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/streams/StreamCreate.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -97,7 +97,7 @@
       <workItem from="1582369440468" duration="1809000" />
       <workItem from="1582372467584" duration="93000" />
       <workItem from="1582372580047" duration="4861000" />
-      <workItem from="1582447805235" duration="1163000" />
+      <workItem from="1582447805235" duration="5780000" />
     </task>
     <task id="LOCAL-00001" summary="create base structure, add google auth Api with secret key, add redux, create reducer and actions for auth component">
       <created>1581420759573</created>
@@ -162,7 +162,14 @@
       <option name="project" value="LOCAL" />
       <updated>1582386059292</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="create mockup server and action creator for new stream">
+      <created>1582482326765</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1582482326765</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -191,7 +198,8 @@
     <MESSAGE value="create redux form on the new stream page" />
     <MESSAGE value="add labels to the form and validation function" />
     <MESSAGE value="create function for rendering error messages" />
-    <option name="LAST_COMMIT_MESSAGE" value="create function for rendering error messages" />
+    <MESSAGE value="create mockup server and action creator for new stream" />
+    <option name="LAST_COMMIT_MESSAGE" value="create mockup server and action creator for new stream" />
   </component>
   <component name="WindowStateProjectService">
     <state x="1021" y="256" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1581278736069">
