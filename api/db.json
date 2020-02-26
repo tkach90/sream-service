@@ -1,16 +1,6 @@
 {
   "streams": [
     {
-      "title": "fdgdfgdfg",
-      "description": "dfgdfgdfg",
-      "id": 1
-    },
-    {
-      "title": "fdgdfgdfg",
-      "description": "dfgdfgdfg",
-      "id": 2
-    },
-    {
       "title": "other stream",
       "description": "here`s some stream",
       "id": 3
@@ -25,6 +15,18 @@
       "description": "this was made by me",
       "userId": "110460218523553154357",
       "id": 5
+    },
+    {
+      "title": "Unexpected Behavior",
+      "description": "Didn`t expect that!",
+      "userId": "110460218523553154357",
+      "id": 6
+    },
+    {
+      "title": "Programmatic Navigation",
+      "description": "You should not see this on the form page!",
+      "userId": "110460218523553154357",
+      "id": 7
     }
   ]
 }
