@@ -3,12 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="2249bf8a-699c-44a4-b365-d2240cb0bdf8" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/db.json" beforeDir="false" afterPath="$PROJECT_DIR$/api/db.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/actions/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/actions/index.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Modal.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Modal.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/streams/StreamDelete.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/streams/StreamDelete.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/streams/StreamForm.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/streams/StreamForm.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/streams/StreamList.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/streams/StreamList.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -112,7 +107,7 @@
       <workItem from="1583129865667" duration="6361000" />
       <workItem from="1583916679973" duration="7346000" />
       <workItem from="1584358135859" duration="4103000" />
-      <workItem from="1584535135505" duration="5067000" />
+      <workItem from="1584535135505" duration="7643000" />
     </task>
     <task id="LOCAL-00001" summary="create base structure, add google auth Api with secret key, add redux, create reducer and actions for auth component">
       <created>1581420759573</created>
@@ -240,7 +235,14 @@
       <option name="project" value="LOCAL" />
       <updated>1583924545064</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="finish deleteStream component, add to deleteStream action redirect to home page after stream delete, create render content and action-buttons for stream deletion, add to App Route possibility to delete definite id, create reusable Modal component">
+      <created>1584637017987</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1584637017987</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -278,7 +280,8 @@
     <MESSAGE value="refactor StreamForm for reuse in StreamCreate and StreamEdit components, StreamEdit component renders with initial values" />
     <MESSAGE value="redirect on main page after submit editStream form, use patch instead push method to avoid lost connection with stream Id" />
     <MESSAGE value="create modal component using reactPortals, add styles to modal window, add modal to streamDelete component, fix issue outside box click ( redirect to homepage, stopPropagation when click inside box)" />
-    <option name="LAST_COMMIT_MESSAGE" value="create modal component using reactPortals, add styles to modal window, add modal to streamDelete component, fix issue outside box click ( redirect to homepage, stopPropagation when click inside box)" />
+    <MESSAGE value="finish deleteStream component, add to deleteStream action redirect to home page after stream delete, create render content and action-buttons for stream deletion, add to App Route possibility to delete definite id, create reusable Modal component" />
+    <option name="LAST_COMMIT_MESSAGE" value="finish deleteStream component, add to deleteStream action redirect to home page after stream delete, create render content and action-buttons for stream deletion, add to App Route possibility to delete definite id, create reusable Modal component" />
   </component>
   <component name="WindowStateProjectService">
     <state x="1021" y="256" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1581278736069">
